@@ -156,7 +156,8 @@ PRODUCT_PACKAGES += \
     CMFileManager \
     LockClock \
     CMAccount \
-    CMHome
+    CMHome \
+    ShiftTools
 
 # CM Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
