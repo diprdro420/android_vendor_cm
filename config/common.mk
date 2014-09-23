@@ -252,7 +252,7 @@ ifndef CM_BUILDTYPE
 endif
 
 # Filter out random types, so it'll reset to UNOFFICIAL
-ifeq ($(filter RELEASE NIGHTLY SNAPSHOT EXPERIMENTAL,$(CM_BUILDTYPE)),)
+ifeq ($(filter RELEASE NIGHTLY SNAPSHOT EXPERIMENTAL SHIFTED,$(CM_BUILDTYPE)),)
     CM_BUILDTYPE :=
 endif
 
