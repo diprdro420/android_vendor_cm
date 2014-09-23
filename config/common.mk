@@ -157,6 +157,7 @@ PRODUCT_PACKAGES += \
     LockClock \
     CMAccount \
     CMHome \
+    HALO \
     ShiftTools
 
 # CM Hardware Abstraction Framework
