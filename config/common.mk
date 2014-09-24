@@ -158,6 +158,7 @@ PRODUCT_PACKAGES += \
     CMAccount \
     CMHome \
     HALO \
+    OmniSwitch \
     ShiftTools
 
 # CM Hardware Abstraction Framework
