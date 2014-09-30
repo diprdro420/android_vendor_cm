@@ -149,6 +149,7 @@ PRODUCT_PACKAGES += \
     libemoji
 
 # Custom CM packages
+PRODUCT_PACKAGES += \
     DSPManager \
     libcyanogen-dsp \
     audio_effects.conf \
